@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659973846666",
+    "project_id": "kuaforsamli",
+    "storage_bucket": "kuaforsamli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659973846666:android:8bc6cbd19f3523417d9f73",
+        "android_client_info": {
+          "package_name": "com.example.kuaforsamli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsr3NbEpn_QEwogX-1m-a494VZ4MYQucs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
