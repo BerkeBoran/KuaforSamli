@@ -30,7 +30,6 @@ class SplashActivity : ComponentActivity() {
         setContent {
             SplashScreen(
                 onTimeout = {
-                    // 3 saniye sonra MainActivity'ye geç
                     startActivity(Intent(this, MainActivity::class.java))
                     finish()
                 }
